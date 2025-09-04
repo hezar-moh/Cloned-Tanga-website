@@ -1,1 +1,1 @@
-![Logo](./assets/img.png)
+![Logo](./img.png)
